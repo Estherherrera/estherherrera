@@ -24,6 +24,9 @@
     <a href="https://www.w3schools.com/cssref/"><img src="css.png" /></a>
     <a href="https://sass-lang.com/documentation/"><img src="sass.png" /></a>
     <a href="https://www.w3schools.com/html/"><img src="html.png" /></a>
+    <a href="https://getbootstrap.com/docs/5.2/getting-started/introduction/"><img src="bootstrap.png" /></a>
+    <a href="https://www.w3schools.com/js/"><img src="js.png" /></a>
+    
     </td>
   </tr>
 </table>
