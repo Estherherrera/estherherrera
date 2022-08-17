@@ -22,7 +22,8 @@
   <tr>
    <td>
     <a href="https://www.w3schools.com/cssref/"><img src="css.png" /></a>
-    <a href="https://sass-lang.com/documentation/"><img src="saas.png" /></a>
+    <a href="https://sass-lang.com/documentation/"><img src="sass.png" /></a>
+    <a href="https://www.w3schools.com/html/"><img src="html.png" /></a>
     </td>
   </tr>
 </table>
