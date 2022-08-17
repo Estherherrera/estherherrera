@@ -15,7 +15,7 @@
 
 ## 🛠 Tools I work with
 
-<table align="center">
+<table align="center" border="none">
   <tr>
     <th>Front end</th>
   </tr>
