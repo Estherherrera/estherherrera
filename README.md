@@ -10,5 +10,7 @@
 ## 🦸‍[ `Hackaton participant`, July 2022, Factoria F5 ](https://drive.google.com/file/d/1FOdc1tWXXliGwh0EME_6J-uzhvkhn2of/view?usp=sharing)
 
 ## 📞 Contact
-<img src="gmail.png.webp" />graxyherrera@gmail.com <br/>
+### <p><img src="gmail.png.webp" style="width:30px; height:30px;" align="left" />graxyherrera@gmail.com</p>
 [<img src="linkedin.png" />](https://www.linkedin.com/in/esther-herrera-3a5b489a/)
+
+🛠 Tools I work with
