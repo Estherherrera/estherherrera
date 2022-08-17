@@ -15,7 +15,7 @@
 
 ## 🛠 Tools I work with
 
-<table>
+<table align="center">
   <tr>
     <th>Front end</th>
   </tr>
@@ -26,7 +26,10 @@
     <a href="https://www.w3schools.com/html/"><img src="html.png" /></a>
     <a href="https://getbootstrap.com/docs/5.2/getting-started/introduction/"><img src="bootstrap.png" /></a>
     <a href="https://www.w3schools.com/js/"><img src="js.png" /></a>
-    
+    <a href="https://angular.io/"><img src="angular.png" /></a>
+    <a href="https://vuejs.org/guide/introduction.html"><img src="vue.png" /></a>
+    <a href="https://code.visualstudio.com/"><img src="vscode.png" /></a>
+    <a href="https://www.sublimetext.com/"><img src="sublime-text.png" style="width:50px; height:50px;"/></a>
     </td>
   </tr>
 </table>
