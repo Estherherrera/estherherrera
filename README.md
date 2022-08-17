@@ -11,7 +11,7 @@
 
 ## 📞 Contact
 ### <p><img src="gmail.png.webp" style="width:30px; height:30px;" align="left" />graxyherrera@gmail.com</p>
-[<img src="linkedin.png" />](https://www.linkedin.com/in/esther-herrera-3a5b489a/)
+[<img src="linkedin.png" />](https://www.linkedin.com/in/esther-herrera-alcantar)
 
 ## 🛠 Tools I work with
 
@@ -20,8 +20,9 @@
     <th>Front end</th>
   </tr>
   <tr>
-    <td>
-      
+   <td>
+    <a href="https://www.w3schools.com/cssref/"><img src="css.png" /></a>
+    <a href="https://sass-lang.com/documentation/"><img src="saas.png" /></a>
     </td>
   </tr>
 </table>
