@@ -15,7 +15,7 @@
 
 ## 🛠 Tools I work with
 
-<table align="center" border="1">
+<table align="center" style="border-collapse: separate; border-spacing: 10; border: 1px solid black; border-radius: 15px; -moz-border-radius: 20px;         padding: 2px; -webkit-border-radius: 5px;">
   <tr>
     <th>Front end</th>
   </tr>
@@ -26,6 +26,7 @@
     <a href="https://www.w3schools.com/html/"><img src="html.png" /></a>
     <a href="https://getbootstrap.com/docs/5.2/getting-started/introduction/"><img src="bootstrap.png" /></a>
     <a href="https://www.w3schools.com/js/"><img src="js.png" /></a>
+    <a href="https://www.postman.com/"><img src="postman.png" /></a>
     <a href="https://angular.io/"><img src="angular.png" /></a>
     <a href="https://vuejs.org/guide/introduction.html"><img src="vue.png" /></a>
     <a href="https://code.visualstudio.com/"><img src="vscode.png" /></a>
@@ -34,9 +35,9 @@
   </tr>
 </table>
 
+<h3 align="center">Back end</h3>
 <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/25423296/163456776-7f95b81a-f1ed-45f7-b7ab-8fa810d529fa.png">
-        <source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
-        <img alt="Shows an illustrated sun in light color mode and a moon with stars in dark color mode." src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
-    </picture>
+        <source srcset="php.png">
+        <source media="(prefers-color-scheme: light)" srcset="mysql.png">
+</picture>
 
