@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Esther Graciela (@estherHerrera) 
 
- - 👀 I’m currently _looking for a job_ .  <img src="z1660687499.png" style="width:150px; height:150px;" align="right"/>       
+ - 👀 I’m currently _looking for a job_ .  <img src="avataaars.png" style="width:150px; height:150px;" align="right"/>       
  - 🌱 I’m a junior full stack Developer trained by ***factoria F5  y udemy***. 
  - 💞️  I really ***love web programming***, and as an ***electronic engineering student*** I have addressed this branch in all possible ways, training and creating new projects, searching for information, generating ideas and collaborative work....
  -✨ I'm an empathetic person, adapting to each person, I am a fast learner, constant and applied, seeking to solve problems according to the possibilities of the moment
@@ -13,9 +13,9 @@
 ### <p><img src="gmail.png.webp" style="width:30px; height:30px;" align="left" />graxyherrera@gmail.com</p>
 [<img src="linkedin.png" />](https://www.linkedin.com/in/esther-herrera-alcantar)
 
-## 🛠 Tools I work with
+## 🛠 Tools I use
 
-<table align="center" style="border-collapse: separate; border-spacing: 10; border: 1px solid black; border-radius: 15px; -moz-border-radius: 20px;         padding: 2px; -webkit-border-radius: 5px;">
+<table align="center">
   <tr>
     <th>Front end</th>
   </tr>
@@ -35,9 +35,53 @@
   </tr>
 </table>
 
-<h3 align="center">Back end</h3>
-<picture>
-        <source srcset="php.png">
-        <source media="(prefers-color-scheme: light)" srcset="mysql.png">
-</picture>
+<table align="center">
+  <tr>
+    <th>Back end</th>
+  </tr>
+  <tr>
+   <td>
+    <a href="https://www.php.net/"><img src="php.png" /></a>
+    <a href="https://docs.python.org/3/"><img src="Python.png" style="width:50px; height:50px;"/></a>
+    <a href="https://dev.mysql.com/"><img src="mysql.png" /></a>
+    <a href="https://www.mongodb.com/"><img src="mongodb.png" style="width:50px; height:50px;"/></a>
+    <a href="https://laravel.com"><img src="laravel.png" style="width:50px; height:50px;"/></a>
+    <a href="https://firebase.google.com/docs"><img src="firebase.png" style="width:50px; height:50px;"/></a>
+    </td>
+  </tr>
+</table>
+
+<table align="center">
+  <tr>
+    <th>Design & organization</th>
+  </tr>
+  <tr>
+   <td>
+    <a href="https://www.diagrams.net/"><img src="diagramsnet.png" style="width:50px; height:50px;"/></a>
+    <a href="https://www.figma.com/"><img src="figma.png"/></a>
+    <a href="https://github.com/"><img src="github.png" /></a>
+    <a href="https://www.gitkraken.com/"><img src="gitkraken.png"/></a>
+    <a href="https://www.atlassian.com/"><img src="jira.png" style="width:150px; height:50px;"/></a>
+    <a href="https://trello.com/"><img src="trello.png" style="width:50px; height:50px;"/></a>
+    </td>
+  </tr>
+</table>
+
+<table align="center">
+  <tr>
+    <th>Divers</th>
+  </tr>
+  <tr>
+   <td>
+    <a href="https://swish.swi-prolog.org/p/Tutorial%20de%20prolog.swinb"><img src="prolog.png" style="width:50px; height:50px;"/></a>
+    <a href="https://www.ccsinfo.com/compilers.php"><img src="picccompiler.jpg" style="width:80px; height:50px;"/></a>
+    <a href="https://www.microchip.com/en-us/tools-resources/develop/mplab-xc-compilers"><img src="mplab-xc-compiler.png" style="width:50px; height:50px;"/></a>
+    <a href="https://www.kicad.org//"><img src="kicad.png" style="width:50px; height:50px;"/></a>
+    <a href="https://www.arduino.cc//"><img src="arduino.webp" style="width:50px; height:50px;"/></a>
+    <a href="https://es.mathworks.com/support.html?s_tid=gn_supp"><img src="Matlab.png" style="width:50px; height:50px;"/></a>
+    </td>
+  </tr>
+</table>
+
+
 
