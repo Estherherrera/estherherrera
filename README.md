@@ -1,6 +1,6 @@
-## 👋 Hi, I'm Esther Graciela (@estherHerrera) 
+## 👋 Hi, I'm Esther Graciela (@estherHerrera) <img src="avataaars.png" style="width:150px; height:150px;" align="right"/>
 
- - 👀 I’m currently _looking for a job_ .  <img src="avataaars.png" style="width:150px; height:150px;" align="right"/>       
+ - 👀 I’m currently _looking for a job_ .         
  - 🌱 I’m a junior full stack Developer trained by ***factoria F5  y udemy***. 
  - 💞️  I really ***love web programming***, and as an ***electronic engineering student*** I have addressed this branch in all possible ways, training and creating new projects, searching for information, generating ideas and collaborative work....
  -✨ I'm an empathetic person, adapting to each person, I am a fast learner, constant and applied, seeking to solve problems according to the possibilities of the moment
