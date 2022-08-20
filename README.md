@@ -122,4 +122,14 @@
 </table>
 
 
+<details>
+  <summary>💻 GitHub Profile Stats</summary>
+  <br/>
+  <p align="center">
+      <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Esther Herrera Github Stats" src="https://github-readme-stats.vercel.app/api?username=estherherrera&show_icons=true&theme=radical" height="192px"/></a>
+  </p>
+  <p align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=estherherrera&layout=compact" alt="elegarmi" height="192px"/></p>
+  </p>
+</details>
 
