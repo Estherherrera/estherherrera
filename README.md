@@ -13,11 +13,13 @@
 ### <p><img src="gmail.png.webp" style="width:30px; height:30px;" align="left" />graxyherrera@gmail.com</p>
 [<img src="linkedin.png" />](https://www.linkedin.com/in/esther-herrera-alcantar)
 
-## 🛠 Tools I use
+## 🛠 My Skills
 
 <table align="center">
   <tr>
     <th>Front end</th>
+    <th>Back end</th>
+    <th>Design & organization</th>
   </tr>
   <tr>
    <td>
@@ -31,15 +33,7 @@
     <a href="https://vuejs.org/guide/introduction.html"><img src="vue.png" /></a>
     <a href="https://code.visualstudio.com/"><img src="vscode.png" /></a>
     <a href="https://www.sublimetext.com/"><img src="sublime-text.png" style="width:50px; height:50px;"/></a>
-    </td>
-  </tr>
-</table>
-
-<table align="center">
-  <tr>
-    <th>Back end</th>
-  </tr>
-  <tr>
+   </td>
    <td>
     <a href="https://www.php.net/"><img src="php.png" /></a>
     <a href="https://docs.python.org/3/"><img src="Python.png" style="width:50px; height:50px;"/></a>
@@ -47,15 +41,7 @@
     <a href="https://www.mongodb.com/"><img src="mongodb.png" style="width:50px; height:50px;"/></a>
     <a href="https://laravel.com"><img src="laravel.png" style="width:50px; height:50px;"/></a>
     <a href="https://firebase.google.com/docs"><img src="firebase.png" style="width:50px; height:50px;"/></a>
-    </td>
-  </tr>
-</table>
-
-<table align="center">
-  <tr>
-    <th>Design & organization</th>
-  </tr>
-  <tr>
+   </td>
    <td>
     <a href="https://www.diagrams.net/"><img src="diagramsnet.png" style="width:50px; height:50px;"/></a>
     <a href="https://www.figma.com/"><img src="figma.png"/></a>
@@ -63,7 +49,7 @@
     <a href="https://www.gitkraken.com/"><img src="gitkraken.png"/></a>
     <a href="https://www.atlassian.com/"><img src="jira.png" style="width:150px; height:50px;"/></a>
     <a href="https://trello.com/"><img src="trello.png" style="width:50px; height:50px;"/></a>
-    </td>
+   </td>
   </tr>
 </table>
 
